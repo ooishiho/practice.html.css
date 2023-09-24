@@ -66,3 +66,14 @@ li {
   width: 20px;
 }
 
+/*メインビジュアル*/
+#mainvisual{
+  margin-bottom: 80px;
+}
+
+#mainvisual img{
+  width: 100%;
+  max-width: 1920px;
+  height: 420px;
+  object-fit:cover;
+}
