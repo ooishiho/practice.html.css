@@ -54,3 +54,26 @@ li {
   padding: 20px 16px;
   line-height: 1px;
 }
+
+#header .site-title a {
+  display: inline-block;
+}
+
+#navi {
+  background-color: #333;
+}
+
+#navi a {
+  color: #fff;
+}
+
+#navi ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#navi li {
+  font-size: 0.875rem;
+  padding: 10px 60px 10px 0;
+}
