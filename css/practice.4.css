@@ -67,3 +67,38 @@ li {
   right: 0;
   z-index: 10;
 }
+
+/*navi*/
+
+#navi {
+  position: fixed;
+  top:0;
+  left:-300px;
+  color: #fff;
+  padding: 36px 50px;
+  transition: all 0.5s
+  z-index: 20;
+  opacity: 0;
+}
+
+#navi a {
+  color: #fff;
+}
+
+#navi li {
+  margin-bottom: 14px;
+}
+
+.open #navi {
+  left: 0;
+  opacity: 1;
+}
+
+.toggle_btn {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  transition: all 0.5s;
+  cursor: pointer;
+  z-index: 20;
+}
