@@ -193,11 +193,11 @@ li {
   .wrapper{
     margin-bottom: 70px;
   }
-  
+
   .site-title {
     margin-top: 20px;
   }
-  
+
   .sec-title {
     margin-bottom: 40px;
   }
@@ -217,15 +217,15 @@ li {
   #header li:first-child {
     margin-left: 0;
   }
-  
+
   #works ul {
     flex-direction: column;
   }
-  
+
   #works li {
     width: 100%;
   }
-  
+
   #news dl {
     flex-direction: column;
   }
@@ -238,7 +238,7 @@ li {
     width: 100%;
     padding-top: 0;
   }
-  
+
   #contact dl {
     flex-direction: column;
   }
