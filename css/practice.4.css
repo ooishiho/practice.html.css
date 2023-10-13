@@ -187,3 +187,12 @@ li {
 .pagination li {
   padding: 0 20px;
 }
+
+
+/*item*/
+#item {
+  max-width: 800px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
