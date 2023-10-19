@@ -196,3 +196,17 @@ li {
   justify-content: space-between;
   margin-bottom: 60px;
 }
+
+#item .item-text {
+  width: 42%;
+}
+
+#item .item-text p {
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+#item .item-text dl {
+  display: flex;
+  flex-wrap: ;
+}
