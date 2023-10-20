@@ -208,5 +208,45 @@ li {
 
 #item .item-text dl {
   display: flex;
-  flex-wrap: ;
+  flex-wrap: wrap;
+}
+
+#item .item-text dt {
+  width: 30%;
+}
+
+#item .item-text dd {
+  width: 70%;
+}
+
+#item .item-img {
+  width: 50%;
+}
+
+/*about*/
+#about {
+  max-width: 600px;
+}
+
+#about p {
+  line-height: 1.9;
+  margin-bottom: 30px;
+}
+
+/*company*/
+
+#company {
+max-width:600px;
+}
+
+#company dl {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+#company dt {
+  width: 30%;
+  border-bottom: solid 1px #dcdbdb;
+  padding: 20px 10px;
 }
