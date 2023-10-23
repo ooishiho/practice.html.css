@@ -14,5 +14,10 @@
 ## practice.3 → 2カラムのブログサイト
 ### 初見は難しく見えてしまうコーディングに挑戦。
 
+## practice.4 → jsも利用したストアサイト
+### 初めてHTMLでのサイト作成。
+
+## practice.5 → HTML,CSS記述に初めから挑戦
+
 ## 以下サイトからの模写練習となります。
 ## URL:https://code-jump.com/coding-recommend/
